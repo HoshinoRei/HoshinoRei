@@ -9,7 +9,7 @@ hoshinorei/hoshinorei is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-My Programing time：
+My Programming time：
 
 ![](https://wakapi.bling.moe/api/badge/hoshinorei/interval:today?label=today) ![](https://wakapi.bling.moe/api/badge/hoshinorei/hoshinorei/interval:7_days?label=last%207d) ![](https://wakapi.bling.moe/api/badge/hoshinorei/hoshinorei/interval:30_days?label=last%2030d)
 
