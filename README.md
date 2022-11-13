@@ -11,6 +11,6 @@ You can click the Preview link to take a look at your changes.
 
 My Programming time：
 
-![](https://wakapi.bling.moe/api/badge/hoshinorei/interval:today?label=today) ![](https://wakapi.bling.moe/api/badge/hoshinorei/hoshinorei/interval:7_days?label=last%207d) ![](https://wakapi.bling.moe/api/badge/hoshinorei/hoshinorei/interval:30_days?label=last%2030d)
+[![wakatime](https://wakatime.com/badge/user/963228cf-1cf3-4e89-9ebc-8c930d371a03.svg)](https://wakatime.com/@963228cf-1cf3-4e89-9ebc-8c930d371a03)
 
-![](https://github-readme-stats.vercel.app/api/wakatime?username=hoshinorei&api_domain=wakapi.bling.moe&bg_color=2D3748&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact)
+![](https://github-readme-stats.vercel.app/api/wakatime?username=HoshinoRei&bg_color=2D3748&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakaime%20Week%20Stats&layout=compact)
