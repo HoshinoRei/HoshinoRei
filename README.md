@@ -8,7 +8,7 @@ My Programming time：
 ![](https://wakapi.bling.moe/api/badge/hoshinorei/interval:today?label=today)
 ![](https://wakapi.bling.moe/api/badge/hoshinorei/hoshinorei/interval:7_days?label=last%207d)
 ![](https://wakapi.bling.moe/api/badge/hoshinorei/hoshinorei/interval:30_days?label=last%2030d)
-![](https://img.shields.io/endpoint?url=https://wakapi.bling.moe/api/compat/shields/v1/HoshinoRei/interval:all_time&label=All%20time&color=blue)
+![](https://img.shields.io/endpoint?url=https://wakapi.bling.moe/api/compat/shields/v1/HoshinoRei/interval:all_time&label=All%20time)
 
 ![](./profile/top-langs.svg)
 
