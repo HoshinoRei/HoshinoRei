@@ -1,15 +1,15 @@
 
       <svg
-        width="467"
+        width="495"
         height="195"
-        viewBox="0 0 467 195"
+        viewBox="0 0 495 195"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">HoshinoRei's GitHub Stats, Rank: B</title>
-        <desc id="descId">Total Stars Earned: 12, Total Commits  (last year) : 80, Total PRs: 383, Total Issues: 5, Contributed to (last year): 1</desc>
+        <title id="titleId">HoshinoRei's GitHub Stats, Rank: B+</title>
+        <desc id="descId">Total Stars Earned: 12, Total Commits  (last year) : 82, Total PRs: 383, Total Issues: 5, Contributed to (last year): 1</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 125.81968626560368;
+        stroke-dashoffset: 125.63413202024661;
       }
     }
   
@@ -110,7 +110,7 @@
           rx="4.5"
           height="99%"
           stroke="#e4e2e2"
-          width="466"
+          width="494"
           fill="#2D3748"
           stroke-opacity="1"
         />
@@ -137,13 +137,13 @@
         >
           
     <g data-testid="rank-circle"
-          transform="translate(390.5, 47.5)">
+          transform="translate(418.5, 47.5)">
         <circle class="rank-circle-rim" cx="-10" cy="8" r="40" />
         <circle class="rank-circle" cx="-10" cy="8" r="40" />
         <g class="rank-text">
           
         <text x="-5" y="3" alignment-baseline="central" dominant-baseline="central" text-anchor="middle" data-testid="level-rank-icon">
-          B
+          B+
         </text>
       
         </g>
@@ -177,7 +177,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >80</text>
+      >82</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
