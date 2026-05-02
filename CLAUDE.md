@@ -15,6 +15,8 @@ This is a GitHub profile repository. The primary artifact is `README.md`, which 
 
 There is no application code, package manifest, or local test/build toolchain in this repository. Typical work is limited to editing Markdown and GitHub Actions workflow YAML.
 
+A minimal `.devcontainer/` setup is available for containerized editing. It builds from `.devcontainer/Dockerfile`, installs Node.js through `nvm`, installs Claude Code globally with npm, persists Claude state in `/home/vscode/.claude`, and can forward `ANTHROPIC_API_KEY` from the host environment.
+
 Common commands:
 
 - View the profile locally by opening `README.md` in a Markdown preview.
