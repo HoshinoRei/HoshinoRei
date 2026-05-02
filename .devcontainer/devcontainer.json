@@ -4,7 +4,7 @@
     "dockerfile": "Dockerfile",
     "context": ".."
   },
-  "initializeCommand": "bash .devcontainer/prepare-claude-volume.sh",
+  "initializeCommand": "bash .devcontainer/init.sh",
   "features": {
     "ghcr.io/devcontainers/features/github-cli:1": { },
     "ghcr.io/devcontainers/features/node:2.0.0": { },
