@@ -31,6 +31,6 @@
       ]
     }
   },
-  "postStartCommand": "bash .devcontainer/prepare-claude-config.sh"
+  "postStartCommand": "bash .devcontainer/post-start.sh"
 }
 
