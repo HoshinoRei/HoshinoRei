@@ -748,14 +748,14 @@
     <g transform="translate(25, 25)">
       <circle cx="5" cy="6" r="5" fill="#41b883" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Vue - 1026 hrs 57 mins
+        Vue - 1027 hrs 6 mins
       </text>
     </g>
   
     <g transform="translate(230, 25)">
       <circle cx="5" cy="6" r="5" fill="#3178c6" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TypeScript - 168 hrs 44 mins
+        TypeScript - 168 hrs 45 mins
       </text>
     </g>
   
@@ -776,7 +776,7 @@
     <g transform="translate(25, 75)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        unknown - 99 hrs 57 mins
+        unknown - 99 hrs 59 mins
       </text>
     </g>
   
@@ -797,7 +797,7 @@
     <g transform="translate(230, 100)">
       <circle cx="5" cy="6" r="5" fill="#083fa1" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Markdown - 70 hrs 59 mins
+        Markdown - 71 hrs 1 mins
       </text>
     </g>
   
