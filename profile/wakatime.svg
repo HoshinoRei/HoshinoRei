@@ -772,7 +772,7 @@
     <g transform="translate(25, 50)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        unknown - 158 hrs 53 mins
+        unknown - 158 hrs 52 mins
       </text>
     </g>
   
