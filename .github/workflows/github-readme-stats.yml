@@ -11,23 +11,27 @@ jobs:
     steps:
       - uses: actions/checkout@v6
       - name: Generate stats card
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
+          core_version: "2.2.0"
+          fail_on_error: true
           options: username=${{ github.repository_owner }}&show_icons=true&bg_color=2D3748&title_color=2F855A&icon_color=2F855A&text_color=ffffff&card_width=495
           path: profile/stats.svg
-          token: ${{ secrets.STATS_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
       - name: Generate top languages card
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
+          core_version: "2.2.0"
           options: username=${{ github.repository_owner }}&layout=compact&langs_count=20&bg_color=2D3748&title_color=2F855A&text_color=ffffff&card_width=495
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
       - name: Generate Wakatime card
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: wakatime
+          core_version: "2.2.0"
           options: username=HoshinoRei&api_domain=wakapi.bling.moe&bg_color=2D3748&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact
           path: profile/wakatime.svg
           token: ${{ secrets.GITHUB_TOKEN }}
