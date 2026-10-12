@@ -138,7 +138,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="245.97"
+          width="244.72"
           height="8"
           fill="#c6538c"
         />
@@ -146,9 +146,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="245.97"
+          x="244.72"
           y="0"
-          width="127.82"
+          width="127.69"
           height="8"
           fill="#3178c6"
         />
@@ -156,9 +156,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="373.78999999999996"
+          x="372.40999999999997"
           y="0"
-          width="41.25"
+          width="41.04"
           height="8"
           fill="#3d8137"
         />
@@ -166,9 +166,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="415.03999999999996"
+          x="413.45"
           y="0"
-          width="25.37"
+          width="26.98"
           height="8"
           fill="#f1e05a"
         />
@@ -176,9 +176,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="440.40999999999997"
+          x="440.43"
           y="0"
-          width="13.03"
+          width="13.01"
           height="8"
           fill="#384d54"
         />
@@ -186,7 +186,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="443.43999999999994"
+          x="443.44"
           y="0"
           width="11.16"
           height="8"
@@ -196,7 +196,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="444.59999999999997"
+          x="444.6"
           y="0"
           width="10.4"
           height="8"
@@ -209,28 +209,28 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#c6538c" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        SCSS 55.27%
+        SCSS 54.99%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#3178c6" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TypeScript 28.72%
+        TypeScript 28.70%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms">
       <circle cx="5" cy="6" r="5" fill="#3d8137" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Nunjucks 9.27%
+        Nunjucks 9.22%
       </text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms">
       <circle cx="5" cy="6" r="5" fill="#f1e05a" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JavaScript 5.70%
+        JavaScript 6.06%
       </text>
     </g>
   </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
