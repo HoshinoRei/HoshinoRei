@@ -832,7 +832,7 @@
     <g transform="translate(230, 75)">
       <circle cx="5" cy="6" r="5" fill="#083fa1" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Markdown - 117 hrs 5 mins
+        Markdown - 117 hrs 7 mins
       </text>
     </g>
   
@@ -1210,14 +1210,14 @@
     <g transform="translate(230, 750)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        ESLint File - 0 hrs 4 mins
+        VimL - 0 hrs 4 mins
       </text>
     </g>
   
     <g transform="translate(25, 775)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        VimL - 0 hrs 4 mins
+        ESLint File - 0 hrs 4 mins
       </text>
     </g>
   
